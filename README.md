@@ -7,7 +7,6 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gitansh-524466301)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gitansh01)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=gitanshdigra2003@gmail.com)
 [![Location](https://img.shields.io/badge/Delhi%2C%20India-00D4FF?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
