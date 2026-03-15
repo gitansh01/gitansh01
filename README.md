@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center">  
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Gitansh&fontSize=70&fontColor=00d4ff&fontAlignY=38&desc=Data%20Science%20Enthusiast%20%7C%20ML%20Learner%20%7C%20Analytics%20Explorer&descAlignY=58&descColor=a0c4ff&animation=fadeIn" />
 
